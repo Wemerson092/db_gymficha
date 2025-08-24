@@ -1,0 +1,30 @@
+{
+  "exercisesData": [
+    {
+      "id": 1,
+      "nome": "Supino Reto",
+      "thumbnail": "https://static.strengthlevel.com/images/exercises/bench-press/bench-press-800.jpg",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/supino-reto.gif",
+      "url": "https://www.youtube.com/watch?v=IODxDxX7oi4",
+      "tipo_de_musculo": "peito"
+    },
+    {
+      "id": 2,
+      "nome": "Cadeira Extensora",
+      "thumbnail": "https://treinomestre.com.br/wp-content/uploads/2022/08/cadeira-extensora.png",
+      "gif_execucao": "https://karoldeliberato.com.br/wp-content/uploads/2023/04/image4-1.gif",
+      "url": "https://www.youtube.com/watch?v=kwG2ipFRgfo",
+      "tipo_de_musculo": "pernas"
+    }
+    // ... resto dos exercícios ...
+  ],
+  "muscleGroups": [
+    { "id": "peito", "name": "Peito", "icon": "body-outline" },
+    { "id": "bíceps", "name": "Bíceps", "icon": "fitness-outline" },
+    { "id": "pernas", "name": "Pernas", "icon": "walk-outline" },
+    { "id": "ombros", "name": "Ombros", "icon": "body-outline" },
+    { "id": "costas", "name": "Costas", "icon": "body-outline" },
+    { "id": "tríceps", "name": "Tríceps", "icon": "fitness-outline" },
+    { "id": "abdômen", "name": "Abdômen", "icon": "body-outline" }
+  ]
+}
