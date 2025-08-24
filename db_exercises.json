@@ -223,7 +223,7 @@
       "gif_execucao": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Cable-Upright-Row.gif",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
       "tipo_de_musculo": "ombros"  
-    },
+    }
   ],
   "muscleGroups": [
     { "id": "peito", "name": "Peito", "icon": "body-outline" },
