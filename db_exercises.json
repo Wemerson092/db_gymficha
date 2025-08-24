@@ -1,6 +1,6 @@
 {
   "exercisesData": [
-    {
+     {
       "id": 1,
       "nome": "Supino Reto",
       "thumbnail": "https://static.strengthlevel.com/images/exercises/bench-press/bench-press-800.jpg",
@@ -15,8 +15,215 @@
       "gif_execucao": "https://karoldeliberato.com.br/wp-content/uploads/2023/04/image4-1.gif",
       "url": "https://www.youtube.com/watch?v=kwG2ipFRgfo",
       "tipo_de_musculo": "pernas"
-    }
-    // ... resto dos exercícios ...
+    },
+    {
+      "id": 3,
+      "nome": "Leg Press 45",
+      "thumbnail": "https://megagym.com.br/cdn/shop/files/CopiadeLegPressForza45_-Photo35.png?v=1709311601",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/pernas-leg-press-45-com-joelhos-no-peito.gif",
+      "url": "https://www.youtube.com/watch?v=Dy28eq2PjcM",
+      "tipo_de_musculo": "pernas"
+    },
+    {
+      "id": 4,
+      "nome": "Cadeira Flexora",
+      "thumbnail": "https://static.wixstatic.com/media/52de9e_dbd28b649d4e4f53b88a622126ab7358.gif",
+      "gif_execucao": "https://www.hipertrofia.org/blog/wp-content/uploads/2024/12/cadeira-flexora.gif",
+      "url": "https://www.youtube.com/watch?v=B-aVuyhvLHU",
+      "tipo_de_musculo": "pernas"
+    },
+    {
+      "id": 5,
+      "nome": "Cadeira Adutora",
+      "thumbnail": "https://s3.amazonaws.com/prod.skimble/assets/2957320/image_iphone.jpg",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/pernas-aducao-de-pernas-na-maquina.gif",
+      "url": "https://www.youtube.com/watch?v=CAwf7n6Luuc",
+      "tipo_de_musculo": "pernas"
+    },
+    {
+      "id": 6,
+      "nome": "Cadeira Abdutora",
+      "thumbnail": "https://s3assets.skimble.com/assets/2675096/image_full.jpg",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/04/pernas-abducao-de-pernas-na-maquina.gif",
+      "url": "https://www.youtube.com/watch?v=vB5OHsJ3EME",
+      "tipo_de_musculo": "pernas"   
+    },
+    {
+      "id": 7,
+      "nome": "Agachamento no Hack",
+      "thumbnail": "https://static.strengthlevel.com/images/exercises/hack-squat/hack-squat-800.jpg",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/11/agachamento-no-rack.gif",
+      "url": "https://www.youtube.com/watch?v=kDqklk1ZESo",
+      "tipo_de_musculo": "pernas"
+    },
+    {
+      "id": 8,
+      "nome": "Panturrilha Sentado na Maquina",
+      "thumbnail": "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F26661101.png&w=640&q=80",
+      "gif_execucao": "https://treinoemalta.com.br/wp-content/uploads/2023/07/sentado.gif",
+      "url": "https://www.youtube.com/watch?v=8QgSAFdZgBI",
+      "tipo_de_musculo": "pernas"
+    },
+    {
+      "id": 9,
+      "nome": "Elevação Frontal",
+      "thumbnail": "https://static.strengthlevel.com/images/exercises/dumbbell-front-raise/dumbbell-front-raise-800.jpg",
+      "gif_execucao": "https://www.treinoemalta.com.br/wp-content/uploads/2023/07/Elevacao-Frontal-com-Halteres.gif",
+      "url": "https://www.youtube.com/watch?v=JB2oyawG9KI",
+      "tipo_de_musculo": "ombros" 
+    },
+    {
+      "id": 10,
+      "nome": "Elevação Lateral",
+      "thumbnail": "https://static.strengthlevel.com/images/exercises/dumbbell-lateral-raise/dumbbell-lateral-raise-800.jpg",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/ombros-elevacao-lateral-de-ombros-com-halteres.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "ombros"
+    },
+    {
+      "id": 11,
+      "nome": "Mergulho assistido",
+      "thumbnail": "https://www.lyfta.app/_next/image?url=https%3A%2F%2Flyfta.app%2Fimages%2Fexercises%2F00191101.png&w=3840&q=75",
+      "gif_execucao": "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-assisted-parralel-bar-dips-side.mp4",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "peito"
+    },
+    {
+      "id": 12,
+      "nome": "Peitoral na Máquina",
+      "thumbnail": "https://static.strengthlevel.com/images/exercises/machine-chest-fly/machine-chest-fly-800.jpg",
+      "gif_execucao": "https://media.musclewiki.com/media/uploads/videos/branded/male-Machine-machine-pec-fly-side.mp4",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "peito"
+    },
+    {
+      "id": 13,
+      "nome": "Triceps corda polia",
+      "thumbnail": "https://img.irroba.com.br/fit-in/600x600/filters:fill(fff):quality(80)/boxfitne/catalog/api/boxfitne_blingirr/6407268e008bf.jpg",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/07/triceps-puxada-no-pulley-com-corda.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "tríceps"
+    },
+    {
+      "id": 14,
+      "nome": "Triceps barra polia",
+      "thumbnail": "https://static.strengthlevel.com/images/exercises/tricep-pushdown/tricep-pushdown-800.jpg",
+      "gif_execucao": "https://treinototal.com.br/wp-content/uploads/2025/02/triceps-invertido-na-polia-corda.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "tríceps"
+    },
+    {
+      "id": 15,
+      "nome": "Puxada aberta no pulley",
+      "thumbnail": "https://www.hipertrofia.org/blog/wp-content/uploads/2025/05/puxada-frente-com-pegada-aberta-e-fechada.jpg",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/costas-puxada-com-barra-no-pulley-1.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "costas"
+    },
+    {
+      "id": 16,
+      "nome": "Remada sentada com pulley",
+      "thumbnail": "https://static1.minhavida.com.br/articles/b6/3c/18/9c/makatserchykshutterstock-remada-baixa-com-pegada-neutra-orig-1.jpg",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/09/remada-sentado-com-cabos-e-triangulo-para-costas.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "costas"
+    },
+    {
+      "id": 17,
+      "nome": "Rosca Concentrada",
+      "thumbnail": "https://treinomestre.com.br/wp-content/uploads/2022/07/rosca-concenrtrada.png",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/rosca-concentrada-unilateral-com-halter.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "bíceps" 
+    },
+    {
+      "id": 18,
+      "nome": "Banco Scott com barra",
+      "thumbnail": "https://static.strengthlevel.com/images/exercises/preacher-curl/preacher-curl-800.jpg",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/biceps-rosca-biceps-no-banco-scott-com-barra-W.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "bíceps"
+    },
+    {
+      "id": 19,
+      "nome": "Rosca Direta Cross",
+      "thumbnail": "https://s3assets.skimble.com/assets/2531315/image_iphone.jpg",
+      "gif_execucao": "https://fitnessprogramer.com/wp-content/uploads/2022/02/Cable-Reverse-Grip-EZ-bar-Biceps-Curl.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "bíceps"    
+    },
+    {
+      "id": 20,
+      "nome": "Rosca Direta Corda Cross",
+      "thumbnail": "https://www.dmoose.com/cdn/shop/articles/1_1_42ccb79d-1b2f-4bd6-a9d4-e886fb09fd06.png?v=1646826645",
+      "gif_execucao": "https://fitnessprogramer.com/wp-content/uploads/2021/06/rope-bicep-curls.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "bíceps"    
+    },  
+    {
+      "id": 21,
+      "nome": "Voador Invertido",
+      "thumbnail": "https://www.hipertrofia.org/blog/wp-content/uploads/2024/08/peck-deck-invertido.jpg",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/ombros-voador-invertido-na-maquina.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "ombros" 
+    },
+    {
+      "id": 22,
+      "nome": "Supino Inclinado Articulado",
+      "thumbnail": "https://static.wixstatic.com/media/2edbed_2db50ab9479749ac9730643431b8549f~mv2.jpg/v1/fill/w_504,h_504,al_c,lg_1,q_80/2edbed_2db50ab9479749ac9730643431b8549f~mv2.jpg",
+      "gif_execucao": "https://www.hipertrofia.org/blog/wp-content/uploads/2024/07/lever-incline-chest-press.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "peito" 
+    },
+    {
+      "id": 23,
+      "nome": "Extensao Triceps Sentado(halteres)",         
+      "thumbnail": "https://static.strengthlevel.com/images/exercises/seated-dumbbell-tricep-extension/seated-dumbbell-tricep-extension-800.jpg",
+      "gif_execucao": "https://www.hipertrofia.org/blog/wp-content/uploads/2023/10/dumbbell-seated-triceps-extension.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "tríceps" 
+    },
+    {
+      "id": 24,
+      "nome": "Extensao Triceps Deitado",         
+      "thumbnail": "https://static.strengthlevel.com/images/exercises/lying-tricep-extension/lying-tricep-extension-800.jpg",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2021/03/rosca-triceps-testa-deitado-no-banco-com-barra-tradicional.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "tríceps" 
+    },
+    {
+      "id": 25,
+      "nome": "Elevação Lateral Maquina",         
+      "thumbnail": "https://static.strengthlevel.com/images/exercises/machine-lateral-raise/machine-lateral-raise-800.jpg",
+      "gif_execucao": "https://i.pinimg.com/originals/2e/47/01/2e4701b9c66e2ac936e976211fd3240a.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "ombros" 
+    },
+    {
+      "id": 26,
+      "nome": "Desenvolvimento de Ombros(Maquina)",         
+      "thumbnail": "https://karoldeliberato.com.br/wp-content/uploads/2023/04/image70.gif",
+      "gif_execucao": "https://karoldeliberato.com.br/wp-content/uploads/2023/04/image70.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "ombros" 
+    },
+    {
+      "id": 27,
+      "nome": "Elevação lateral com halteres no banco inclinado",         
+      "thumbnail": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/costas-elevacao-lateral-com-halteres-no-banco-inclinado.gif",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/costas-elevacao-lateral-com-halteres-no-banco-inclinado.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "ombros"  
+    },
+    {
+      "id": 28,
+      "nome": "Remada Alta Barra(polia)",         
+      "thumbnail": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Cable-Upright-Row.gif",
+      "gif_execucao": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Cable-Upright-Row.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "ombros"  
+    },
   ],
   "muscleGroups": [
     { "id": "peito", "name": "Peito", "icon": "body-outline" },
