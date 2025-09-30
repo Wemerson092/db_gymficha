@@ -223,6 +223,22 @@
       "gif_execucao": "https://fitnessprogramer.com/wp-content/uploads/2021/02/Cable-Upright-Row.gif",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
       "tipo_de_musculo": "ombros"  
+    },
+    {
+      "id": 29,
+      "nome": "Remada Unilateral(halteres)",         
+      "thumbnail": "https://static.wixstatic.com/media/2edbed_cf8feb6f79494833b887104bc358843d~mv2.gif",
+      "gif_execucao": "https://static.wixstatic.com/media/2edbed_cf8feb6f79494833b887104bc358843d~mv2.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "Costas"  
+    },
+    {
+      "id": 30,
+      "nome": "Remada T-bar deitado",         
+      "thumbnail": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/11941201.mp4",
+      "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/11941201.mp4",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "Costas"  
     }
   ],
   "muscleGroups": [
