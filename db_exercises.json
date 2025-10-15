@@ -243,7 +243,7 @@
     {
       "id": 31,
       "nome": "Alavanca de linha alta",         
-      "thumbnail": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/31001201.mp4",
+      "thumbnail": "https://my.lyfta.app/_next/image?url=https%3A%2F%2Fapilyfta.com%2Fstatic%2FGymvisualPNG%2F26621101-Lever-High-Row-(plate-loaded)-(VERSION-2)_Back_small.png&w=640&q=100",
       "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/31001201.mp4",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
       "tipo_de_musculo": "Costas"  
@@ -251,7 +251,7 @@
     {
       "id": 32,
       "nome": "Remada sentada com alavanca neutra",         
-      "thumbnail": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/05881201.mp4",
+      "thumbnail": "https://my.lyfta.app/_next/image?url=https%3A%2F%2Fapilyfta.com%2Fstatic%2FGymvisualPNG%2F05881101-Lever-Narrow-Grip-Seated-Row-(plate-loaded)_Back_small.png&w=640&q=100",
       "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/05881201.mp4",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
       "tipo_de_musculo": "Costas"  
