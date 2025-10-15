@@ -239,6 +239,22 @@
       "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/11941201.mp4",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
       "tipo_de_musculo": "Costas"  
+    },
+    {
+      "id": 31,
+      "nome": "Alavanca de linha alta",         
+      "thumbnail": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/31001201.mp4",
+      "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/31001201.mp4",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "Costas"  
+    },
+    {
+      "id": 32,
+      "nome": "Remada sentada com alavanca neutra",         
+      "thumbnail": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/05881201.mp4",
+      "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/05881201.mp4",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "Costas"  
     }
   ],
   "muscleGroups": [
