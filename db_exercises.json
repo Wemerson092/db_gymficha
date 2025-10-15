@@ -271,6 +271,30 @@
       "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/rosca-biceps-martelo-com-halteres.gif",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
       "tipo_de_musculo": "bíceps"  
+    },
+    {
+      "id": 35,
+      "nome": "Dumbbell Waiter Biceps Curl",         
+      "thumbnail": "https://fitnessprogramer.com/wp-content/uploads/2023/09/waiter-curl.gif",
+      "gif_execucao": "https://fitnessprogramer.com/wp-content/uploads/2023/09/waiter-curl.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "bíceps"  
+    },
+    {
+      "id": 36,
+      "nome": "Dumbbell Incline Squeeze Press",         
+      "thumbnail": "https://my.lyfta.app/_next/image?url=https%3A%2F%2Fapilyfta.com%2Fstatic%2FGymvisualPNG%2F50671101-Dumbbell-Incline-Squeeze-Press_Upper-Arms_small.png&w=640&q=100",
+      "gif_execucao": "https://apilyfta.com/static/GymvisualMP4/50671201-Dumbbell-Incline-Squeeze-Press_Upper-Arms_.mp4",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "bíceps"  
+    },
+    {
+      "id": 37,
+      "nome": "Curvatura inclinada com halteres",         
+      "thumbnail": "https://my.lyfta.app/_next/image?url=https%3A%2F%2Fapilyfta.com%2Fstatic%2FGymvisualPNG%2F03171101-Dumbbell-Incline-Curl-II_Upper-Arms_small.png&w=640&q=100",
+      "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/03171201.mp4",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "bíceps"  
     }
   ],
   "muscleGroups": [
