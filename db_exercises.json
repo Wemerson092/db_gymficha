@@ -295,6 +295,30 @@
       "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/03171201.mp4",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
       "tipo_de_musculo": "bíceps"  
+    },
+    {
+      "id": 38,
+      "nome": "Supino inclinado",         
+      "thumbnail": "https://my.lyfta.app/_next/image?url=https%3A%2F%2Fapilyfta.com%2Fstatic%2FGymvisualPNG%2F03141101-Dumbbell-Incline-Bench-Press_Chest_small.png&w=640&q=100",
+      "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/03141201.mp4",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "peito"  
+    },
+    {
+      "id": 39,
+      "nome": "Supino de aperto com halteres",         
+      "thumbnail": "https://my.lyfta.app/_next/image?url=https%3A%2F%2Fapilyfta.com%2Fstatic%2FGymvisualPNG%2F36811101-Dumbbell-Squeeze-Bench-Press_Chest_small.png&w=640&q=100",
+      "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/36811201.mp4",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "peito"  
+    },
+    {
+      "id": 40,
+      "nome": "Dumbbell Incline Fly",         
+      "thumbnail": "https://static.strengthlevel.com/images/exercises/incline-dumbbell-fly/howto/incline-dumbbell-fly-howto-1-800.jpg",
+      "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/03191201.mp4",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "peito"  
     }
   ],
   "muscleGroups": [
