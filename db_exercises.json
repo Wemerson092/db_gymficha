@@ -319,6 +319,14 @@
       "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/03191201.mp4",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
       "tipo_de_musculo": "peito"  
+    },
+    {
+      "id": 41,
+      "nome": "Encolhimento de ombros com halteres",         
+      "thumbnail": "https://treinoemalta.com.br/wp-content/uploads/2023/07/Encolhimento-de-ombros-com-halteres.gif",
+      "gif_execucao": "https://treinoemalta.com.br/wp-content/uploads/2023/07/Encolhimento-de-ombros-com-halteres.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "Trapézio"  
     }
   ],
   "muscleGroups": [
@@ -328,6 +336,8 @@
     { "id": "ombros", "name": "Ombros", "icon": "body-outline" },
     { "id": "costas", "name": "Costas", "icon": "body-outline" },
     { "id": "tríceps", "name": "Tríceps", "icon": "fitness-outline" },
-    { "id": "abdômen", "name": "Abdômen", "icon": "body-outline" }
+    { "id": "abdômen", "name": "Abdômen", "icon": "body-outline" },
+    { "id": "trapézio", "name": "Trapézio", "icon": "body-outline" },
+    { "id": "antebraço", "name": "Antebraço", "icon": "fitness-outline" }
   ]
 }
