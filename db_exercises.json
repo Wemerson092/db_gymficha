@@ -327,6 +327,30 @@
       "gif_execucao": "https://treinoemalta.com.br/wp-content/uploads/2023/07/Encolhimento-de-ombros-com-halteres.gif",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
       "tipo_de_musculo": "Trapézio"  
+    },
+    {
+      "id": 42,
+      "nome": "Encolhimento de ombros por trás com barra guiada",         
+      "thumbnail": "https://treinoemalta.com.br/wp-content/uploads/2023/07/Encolhimento-de-ombros-com-barra-1.gif",
+      "gif_execucao": "https://treinoemalta.com.br/wp-content/uploads/2023/07/Encolhimento-de-ombros-com-barra-1.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "Trapézio"  
+    },
+    {
+      "id": 43,
+      "nome": "Face Pull",         
+      "thumbnail": "https://static.wixstatic.com/media/11c3fa_24f6c6f573724e02ab2d32e6726d8a7d~mv2.gif",
+      "gif_execucao": "https://static.wixstatic.com/media/11c3fa_24f6c6f573724e02ab2d32e6726d8a7d~mv2.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "Trapézio"  
+    },
+    {
+      "id": 44,
+      "nome": "Remada alta com halteres",         
+      "thumbnail": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/ombros-remada-alta-em-pe-com-halteres.gif",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/ombros-remada-alta-em-pe-com-halteres.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "Trapézio"  
     }
   ],
   "muscleGroups": [
