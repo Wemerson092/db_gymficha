@@ -351,6 +351,14 @@
       "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2020/12/ombros-remada-alta-em-pe-com-halteres.gif",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
       "tipo_de_musculo": "Trapézio"  
+    },
+    {
+      "id": 45,
+      "nome": "Tríceps francês na polia",         
+      "thumbnail": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/01941201.mp4",
+      "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/01941201.mp4",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "Tríceps"  
     }
   ],
   "muscleGroups": [
