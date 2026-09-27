@@ -354,19 +354,19 @@
     },
     {
       "id": 45,
-      "nome": "Tríceps francês na polia",         
+      "nome": "Tríceps francês na polia",
       "thumbnail": "https://www.hipertrofia.org/blog/wp-content/uploads/2025/01/triceps-frances-na-polia-baixa-no-cross.gif",
       "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/01941201.mp4",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
-      "tipo_de_musculo": "Tríceps"  
+      "tipo_de_musculo": "Tríceps"
     },
     {
       "id": 46,
-      "nome": "Flexao Triceps Diamante",         
+      "nome": "Flexao Triceps Diamante",
       "thumbnail": "https://www.mundoboaforma.com.br/wp-content/uploads/2023/11/corpo-texto-flexao-de-bracos-diamante.gif",
       "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2023/11/corpo-texto-flexao-de-bracos-diamante.gif",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
-      "tipo_de_musculo": "Tríceps"  
+      "tipo_de_musculo": "Tríceps"
     }
   ],
   "muscleGroups": [
