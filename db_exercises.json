@@ -359,7 +359,15 @@
       "gif_execucao": "https://lyftaweb.s3.us-east-2.amazonaws.com/GymvisualMP4/01941201.mp4",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
       "tipo_de_musculo": "Tríceps"  
-    }
+    },
+    {
+      "id": 46,
+      "nome": "Flexao Triceps Diamante",         
+      "thumbnail": "https://www.mundoboaforma.com.br/wp-content/uploads/2023/11/corpo-texto-flexao-de-bracos-diamante.gif",
+      "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2023/11/corpo-texto-flexao-de-bracos-diamante.gif",
+      "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
+      "tipo_de_musculo": "Tríceps"  
+    },
   ],
   "muscleGroups": [
     { "id": "peito", "name": "Peito", "icon": "body-outline" },
