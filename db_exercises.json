@@ -367,7 +367,7 @@
       "gif_execucao": "https://www.mundoboaforma.com.br/wp-content/uploads/2023/11/corpo-texto-flexao-de-bracos-diamante.gif",
       "url": "https://www.youtube.com/watch?v=roCP6wCXPqo",
       "tipo_de_musculo": "Tríceps"  
-    },
+    }
   ],
   "muscleGroups": [
     { "id": "peito", "name": "Peito", "icon": "body-outline" },
